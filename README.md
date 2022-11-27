@@ -1,4 +1,4 @@
-# SploogSMP
+# SploogSMP Modpack
 
 # Report an issue
 Here to report an issue with the modpack?
