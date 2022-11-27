@@ -10,3 +10,6 @@
 ## forge-logo 
 ![forge-icon](https://user-images.githubusercontent.com/38300939/204119187-d19eaac1-5252-4d72-aed4-101f9875004f.png)
 
+- Removes "[Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)."
+  -Support for this mod is now unsupported by TSSMPMP due to problems with its operation on macOS clients.
+- Updates Moddermore list to reflect new version. ( v0.1 -> v0.1.1 )
